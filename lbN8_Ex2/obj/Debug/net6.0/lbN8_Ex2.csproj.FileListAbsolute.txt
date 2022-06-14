@@ -1,0 +1,17 @@
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\lbN8_Ex2.exe
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\lbN8_Ex2.deps.json
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\lbN8_Ex2.runtimeconfig.json
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\lbN8_Ex2.dll
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\ref\lbN8_Ex2.dll
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\lbN8_Ex2.pdb
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.csproj.AssemblyReference.cache
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.AssemblyInfoInputs.cache
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.AssemblyInfo.cs
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.csproj.CopyComplete
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.dll
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\ref\lbN8_Ex2.dll
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.pdb
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8_Ex2\obj\Debug\net6.0\lbN8_Ex2.genruntimeconfig.cache
